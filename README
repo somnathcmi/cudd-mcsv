@@ -1,0 +1,9 @@
+src directory contain source codes of bdd apply and relational product functions
+
+mc.c contain model checking algorithms implemented as per problem statement 1.
+
+blib-test.c contain sample test case of 2-bit counter.
+
+blib.h is an interface to library functions in src directory.
+
+make command will compile all files aling with blib-test.c and create executable blib-test
